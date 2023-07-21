@@ -40,7 +40,7 @@ If the snake collides with the board and its own body, it is game over. If game 
 
 
 
-#Acknowledgments:
+# Acknowledgments:
 This game is inspired by the classis Snake Game originated in the 1970s.
 Thanks to the SwingLibrary for providing an easy to use GUI framework for java.
 The code is well commented, if you have any questions or want to continue this project feel free to do so :)
